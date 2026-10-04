@@ -39,7 +39,6 @@ apis:
   - name: Readme typing SVG
     description: "Customizable typing and deleting text SVG"
     humanURL: https://github.com/DenverCoder1/readme-typing-svg
-    baseURL: https://github.com/DenverCoder1/readme-typing-svg
     tags:
       - Photography
     properties:
